@@ -19,4 +19,4 @@ if(NOT TARGET OpenMP::OpenMP_CXX)
 
 endif()
 
-add_subdirectory(e01-helloworld)
+add_subdirectory(e01-basics)
